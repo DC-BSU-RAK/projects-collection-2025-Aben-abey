@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="palette_deep_indigo">#FFFFFFFF</color>
+    <color name="palette_slate_blue">#4A4E69</color>
+    <color name="palette_cool_grey">#9A8C98</color>
+    <color name="palette_pale_taupe">#C9ADA7</color>
+    <color name="palette_off_white">#FFFFFFFF</color>
+
+    <color name="material_error">#B00020</color>
+    <color name="material_on_error">#FFFFFF</color>
+</resources>
