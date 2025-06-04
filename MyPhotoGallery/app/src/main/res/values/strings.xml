@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Photo Gallery</string>
+    <string name="photo_thumbnail_desc">Photo thumbnail</string>
+    <string name="full_screen_image_desc">Full screen image</string>
+    <string name="permission_required_message">Storage permission is required to display photos. Please grant the permission.</string>
+    <string name="no_photos_found">No photos found on this device.</string>
+    <string name="storage_permission_rationale">This app needs access to your photos to display them in the gallery.</string>
+    <string name="grant_permission">Grant</string>
+    <string name="permission_denied_message">Permission denied. Photos cannot be displayed.</string>
+    <string name="settings_text">Settings</string>
+    <string name="gallery_heading">GALLERY</string>
+    <string name="settings_title">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="about_gallery">About the Gallery</string>
+    <string name="about_dialog_title">About My Photo Gallery</string>
+    <string name="about_dialog_message">My Photo Gallery\nVersion 1.0\nDeveloped with Love</string>
+    <string name="ok">OK</string>
+    <string name="settings_icon_desc">Settings</string>
+</resources>
