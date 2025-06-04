@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.MeaninglessCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/palette_slate_blue</item>
+        <item name="colorOnPrimary">@color/palette_off_white</item>
+        <item name="colorPrimaryContainer">@color/palette_pale_taupe</item>
+        <item name="colorOnPrimaryContainer">@color/palette_deep_indigo</item>
+
+        <item name="colorSecondary">@color/palette_cool_grey</item>
+        <item name="colorOnSecondary">@color/palette_off_white</item>
+        <item name="colorSecondaryContainer">@color/palette_off_white</item>
+        <item name="colorOnSecondaryContainer">@color/palette_deep_indigo</item>
+
+        <item name="colorTertiary">@color/palette_deep_indigo</item>
+        <item name="colorOnTertiary">@color/palette_off_white</item>
+        <item name="colorTertiaryContainer">@color/palette_slate_blue</item>
+        <item name="colorOnTertiaryContainer">@color/palette_off_white</item>
+
+        <item name="android:colorBackground">@color/palette_off_white</item>
+        <item name="colorOnBackground">@color/palette_deep_indigo</item>
+
+        <item name="colorSurface">@color/palette_off_white</item>
+        <item name="colorOnSurface">@color/palette_deep_indigo</item>
+
+        <item name="colorSurfaceVariant">@color/palette_pale_taupe</item>
+        <item name="colorOnSurfaceVariant">@color/palette_deep_indigo</item>
+
+        <item name="colorOutline">@color/palette_cool_grey</item>
+        <item name="colorOutlineVariant">@color/palette_pale_taupe</item> <item name="colorError">@color/material_error</item>
+        <item name="colorOnError">@color/material_on_error</item>
+        <item name="colorErrorContainer">#FFDAD6</item> <item name="colorOnErrorContainer">#410002</item> </style>
+
+    <style name="Theme.MeaninglessCalculator" parent="Base.Theme.MeaninglessCalculator" />
+</resources>
